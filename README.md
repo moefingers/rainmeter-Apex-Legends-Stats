@@ -11,3 +11,5 @@ Right-click to edit variables, or access from resources folder.<br>
 -Do not change the API key unless you have set up to have your own API key.<br>
 -Do not change the URL unless you want to break it.<br>
 -The skin width and height may have unexpected behavior until future changes to make this app more scalable.<br>
+
+This version uses RegExp to collect data from the API. A future version may use a JSON parser
